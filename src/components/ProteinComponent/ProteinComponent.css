@@ -1,0 +1,31 @@
+.protein-section {
+  margin: 2em 4em;
+}
+
+.protein-section__title {
+  font-weight: 600;
+  font-size: 22px;
+  margin-right: 14px;
+}
+
+.protein-section__subtitle {
+  color: #616161;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.protein-section__content {
+  color: #616161;
+  font-size: 12px;
+  font-weight: 400;
+}
+.protein-section__organism {
+  border-radius: 18px;
+  padding: 2px 12px;
+  background-color: #d8e7ff;
+  font-size: 14px;
+  font-weight: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
